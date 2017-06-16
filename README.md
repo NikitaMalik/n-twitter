@@ -4,7 +4,7 @@ This is a sample PHP application deployed to Heroku. It gets all the retweets of
 
 ## Deploying
 
-[![Access it from Heroku ](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Access it from Heroku ]](https://n-twitter.herokuapp.com/)
 
 ## Documentation
 
